@@ -6,6 +6,7 @@ Business Problem Statement
 The objective is to enhance a decision-support system that predicts the effectiveness of medications based on patient profiles. By incorporating demographic information, medical history, and allergies, the goal is to aid healthcare professionals in making informed decisions about prescriptions, thereby improving patient outcomes and minimizing adverse drug reactions.
 
 Dataset Description:
+
 Patient ID: Integer representing a unique identifier for each patient.
 
 Name: Randomly generated full name.
